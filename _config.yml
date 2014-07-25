@@ -1,0 +1,12 @@
+# Site settings
+title: Coding Time
+email: Zengyun.programmer@gmail.com
+description: "iOS Developer, Curious about EVERYTHING"
+baseurl: ""
+url: "http://www.codingtime.info"
+twitter_username: allchild
+github_username: zengyun.programmer@gmail.com 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
